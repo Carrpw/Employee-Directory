@@ -1,6 +1,6 @@
 # Employee Directory
 
-  [![License: ](https://img.shields.io/badge/License--yellow.svg)](https://opensource.org/licenses/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
   ## Description
@@ -27,7 +27,7 @@
 
   ### License
 
-  [![License: ](https://img.shields.io/badge/License--yellow.svg)](https://opensource.org/licenses/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ### Contributors
 
